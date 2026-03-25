@@ -6,6 +6,8 @@ A GitLab Duo Agent Platform flow that automatically generates and posts structur
 context briefs on merge requests — surfacing not just *what* changed, but *why* it
 matters, what areas are affected, and what a reviewer needs to know before approving.
 
+> **[Live Demo](https://ila-group.gitlab.io/context-mr-agent)** · **[GitLab](https://gitlab.com/ila-group/context-mr-agent)** · **[GitHub](https://github.com/ori919/context-mr-agent)** · **[Sample MR with Context Brief](https://gitlab.com/ila-group/context-mr-agent/-/merge_requests/1)**
+
 ---
 
 ## The Problem
@@ -135,9 +137,7 @@ a Context Brief as it appears in a merge request.
 
 See [docs/demo-script.md](docs/demo-script.md) for a 90-second demo walkthrough.
 
-A supplementary demo page is available in `apps/demo-web/` — a static Next.js site
-that showcases the concept, before/after workflow, and sample output for presentation
-purposes.
+A supplementary demo page is available at **https://ila-group.gitlab.io/context-mr-agent** — a static Next.js site that showcases the concept, before/after workflow, and sample output for presentation purposes. Source in `apps/demo-web/`.
 
 ## Technical Details
 

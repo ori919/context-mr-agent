@@ -1,0 +1,14 @@
+image: node:20-alpine
+
+pages:
+  stage: deploy
+  script:
+    - cd apps/demo-web
+    - npm ci
+    - npm run build
+    - mv out ../../public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
