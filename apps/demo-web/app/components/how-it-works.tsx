@@ -54,7 +54,7 @@ export function HowItWorks() {
           <p className="text-[11px] font-medium uppercase tracking-[0.25em] text-accent">
             HOW IT WORKS
           </p>
-          <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.02em]">
+          <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.03em] text-white">
             From setup to automation
             <br />
             in 3 simple steps

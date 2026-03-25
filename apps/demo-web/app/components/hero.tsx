@@ -1,8 +1,7 @@
 export function Hero() {
   return (
     <section className="relative overflow-hidden">
-      {/* Ambient glow */}
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_70%_40%_at_50%_-5%,rgba(45,212,191,0.06),transparent)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_70%_50%_at_50%_-10%,rgba(45,212,191,0.12),transparent)]" />
 
       <div className="relative mx-auto max-w-[1100px] px-6 pt-36 pb-24 text-center">
         {/* Badge */}

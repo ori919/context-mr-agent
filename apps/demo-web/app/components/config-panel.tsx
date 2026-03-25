@@ -32,7 +32,7 @@ export function ConfigPanel() {
           <p className="text-[11px] font-medium uppercase tracking-[0.25em] text-accent">
             CUSTOMIZATION
           </p>
-          <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.02em]">
+          <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.03em] text-white">
             Configure per project
           </h2>
           <p className="mx-auto mt-5 max-w-[480px] text-[15px] leading-[1.7] text-muted-light">

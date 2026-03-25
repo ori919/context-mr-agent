@@ -23,7 +23,7 @@ function CtaSection() {
         <p className="text-[11px] font-medium uppercase tracking-[0.25em] text-accent">
           OPEN SOURCE
         </p>
-        <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.02em]">
+        <h2 className="mt-5 text-[clamp(2rem,5vw,3.5rem)] font-bold leading-[1.1] tracking-[-0.03em] text-white">
           Automate context.
           <br />
           Ship faster.
