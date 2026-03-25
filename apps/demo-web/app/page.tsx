@@ -34,7 +34,7 @@ function CtaSection() {
         </p>
         <div className="mt-10">
           <a
-            href="https://gitlab.com/gitlab-ai-hackathon"
+            href="https://gitlab.com/ila-group/context-mr-agent"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex h-[52px] items-center gap-3 rounded-full bg-foreground px-8 text-[15px] font-medium text-background transition-all hover:opacity-90"
@@ -77,7 +77,7 @@ export default function Home() {
               How it works
             </a>
             <a
-              href="https://gitlab.com/gitlab-ai-hackathon"
+              href="https://gitlab.com/ila-group/context-mr-agent"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex h-9 items-center gap-2 rounded-full bg-foreground px-5 text-[13px] font-medium text-background transition-all hover:opacity-90"
@@ -134,7 +134,7 @@ export default function Home() {
               </p>
               <div className="space-y-3">
                 <FooterLink href="#how-it-works">How it works</FooterLink>
-                <FooterLink href="https://gitlab.com/gitlab-ai-hackathon" external>Repository</FooterLink>
+                <FooterLink href="https://gitlab.com/ila-group/context-mr-agent" external>Repository</FooterLink>
                 <FooterLink href="https://gitlab.com/gitlab-ai-hackathon" external>Hackathon</FooterLink>
               </div>
             </div>
